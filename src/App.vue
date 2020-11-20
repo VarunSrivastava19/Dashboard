@@ -12,7 +12,7 @@
                     <IconCard icon="hard-drive" :link="iconCards.topLeft"/>
                     <IconCard icon="mail" :link="iconCards.topRight"/>
                     <IconCard icon="github" :link="iconCards.bottomLeft"/>
-                    <IconCard icon="bookmark" :link="iconCards.bottomRight"/>
+                    <IconCard icon="youtube" :link="iconCards.bottomRight"/>
                 </div>
                 <div class="grid gap-10 grid-cols-2 ml-32">
                     <ItemCard v-for="card in cards" :key="card.id" :card="card"/>

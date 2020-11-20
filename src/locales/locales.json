@@ -1,51 +1,51 @@
 {
-  "servers": "https://updown.io/api/checks?api-key=6iz9P5SEq1NdZJyWpkGf",
+  "servers": "",
   "iconCards": {
-    "topLeft": "https://drive.google.com/drive/u/0/my-drive",
-    "topRight": "https://mail.google.com/mail/u/0/#inbox",
-    "bottomLeft": "https://github.com/PeanutButte7?tab=repositories",
-    "bottomRight": "https://www.notion.so/Home-3c987f6f7a5640a0a3d5e0490e96d297"
+    "topLeft": "https://onedrive.live.com/?id=root&cid=5F8FA3803E7E40D3",
+    "topRight": "https://mail.google.com/mail/u/2/#inbox",
+    "bottomLeft": "https://github.com/VarunSrivastava19?tab=repositories",
+    "bottomRight": "https://www.youtube.com/"
   },
   "cards": [
     {
-      "name": "School",
+      "name": "Work",
       "items": [
         {
-          "name": "Mail",
-          "link": "https://mail.google.com/mail/u/3/#inbox"
+          "name": "Gmail",
+          "link": "https://mail.google.com/mail/u/2/#inbox"
         },
         {
           "name": "Drive",
-          "link": "https://drive.google.com/drive/u/3/my-drive"
+          "link": "https://drive.google.com/drive/u/2/my-drive"
         },
         {
-          "name": "Classroom",
-          "link": "https://classroom.google.com/u/0/h"
+          "name": "Github",
+          "link": "https://github.com/"
         },
         {
-          "name": "School app",
-          "link": "https://www.skolaonline.cz/Aktuality.aspx"
+          "name": "Outlook",
+          "link": "https://outlook.live.com/mail/0/inbox"
         }
       ]
     },
     {
-      "name": "Web dev",
+      "name": "Play",
       "items": [
         {
-          "name": "Vue",
-          "link": "https://vuejs.org/v2/guide/"
+          "name": "Reddit",
+          "link": "https://www.reddit.com/"
         },
         {
-          "name": "Feather Icons",
-          "link": "https://feathericons.com/"
+          "name": "FreeCodeCamp",
+          "link": "https://www.freecodecamp.org/"
         },
         {
-          "name": "Tailwind",
-          "link": "https://tailwindcss.com/docs"
+          "name": "Whatsapp",
+          "link": "https://web.whatsapp.com/"
         },
         {
-          "name": "Downdetector",
-          "link": "https://downdetector.com/"
+          "name": "SocialClub",
+          "link": "https://socialclub.rockstargames.com/"
         }
       ]
     }
